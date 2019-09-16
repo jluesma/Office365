@@ -1,0 +1,1 @@
+{"reporters":["console","badge"],"tokensToSkip":["comment","empty","new_line","ignore"],"ignore":["**/__snapshots__/**"],"threshold":0}
